@@ -1,4 +1,4 @@
-# Unleash the Power of Azure Open AI
+# Unleash the Power of Azure ChatGPT
 
 ![](/images/intro.png)
 
